@@ -1,0 +1,219 @@
+.images-top{
+  width:50px;
+
+}
+.search-bar{
+  margin-top: 3px;
+  margin-left: 88px;
+  padding: 8px;
+  display: block;
+  color: white;
+  background-color: black;
+  width:536px;
+  border: solid;
+  border-color: gray;
+  border-top-left-radius: 30px;
+  border-bottom-left-radius: 30px;
+  }
+.title-image{
+  width: 435px;
+  border-radius: 12px;
+  }
+  .title-image:hover{
+    cursor: pointer;
+    border-radius: 0px;
+  }
+.video-container{
+  display: inline-block;
+  margin: 5px;
+  vertical-align: top;
+}
+.video-title{
+  margin: 0px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight:bold ;
+  color: white;
+  width: 260px;
+  line-height: 24px;
+  
+}
+
+body{
+  background-color: black;
+}
+.top-container{
+  display: inline-block;
+}
+.video-channel{
+  color: gray;
+  font-size: 16px;
+  font-family: Arial, Helvetica, sans-serif ;
+  margin-bottom: 2px;
+  margin-top: 10px;
+}
+.video-stats{
+  color: gray;
+  font-size: 14px;
+  font-family: Arial, Helvetica, sans-serif;
+margin-top: 2px;
+}
+.channel-logo{
+  display: inline-block;
+  width: 35px;
+  height: 50px;
+  vertical-align: top;
+}
+.channel-image{
+  width: 30px;
+  height: 30px;
+  border-color: white ;
+  border-radius: 30px;
+}
+.text-grid{
+  width:260px;
+  display: inline-block;
+}
+.bottom-left-container{
+  width: 64px;
+  height: 850px;
+display: inline-block;
+vertical-align: top;
+}
+.bottom-right-container{
+  display: inline-block;
+ 
+  vertical-align: top;
+  margin-left: 20px;
+  margin-top: 30px;
+}
+.search-bar-div{
+  width: 735px;
+display: inline-block;
+vertical-align: top ;
+}
+.three-line-div{
+  width: 64px;
+  display: inline-block;
+vertical-align: top;
+height: 56px;
+}
+.left-button-1{
+  width: 24px;
+  margin-top: 12px;
+  margin-left: 14px;
+  margin-bottom: 10px;
+  display: inline-block;
+}
+.yt-logo-div{
+  width: 250px;
+  height: 55px;
+  display: inline-block;
+  vertical-align: top;
+}
+.yt-logo-1{
+  width: 100px;
+  height: 30px;
+  margin-top: 5px;
+  
+
+}
+.left-button-2{
+  width: 25px;
+  margin-top:12px;
+  margin-left: 14px;
+  margin-bottom: 10px;
+}
+.bottom-right-top{
+  margin-bottom: 35px;
+}
+.underline-hide{
+  color: gray;
+  text-decoration: none;
+}
+.underline-hide:hover{
+  text-decoration: underline;
+}
+.remove-underline-title{
+  color:white;
+  text-decoration: none;
+}
+.remove-underline-title:hover{
+  text-decoration: underline;
+}
+.small-button-fix{
+  width: 43px;
+margin-left: 5px;
+}
+.left-icon-margin{
+  margin-bottom: 15px;
+}
+.right-button-1{
+
+  width: 43px;
+}
+.create-button-div{
+ 
+  width: 40px;
+  display: inline-block;
+}
+.my-image-fix{
+  width: 42px;
+  height: 43px;
+  border-radius: 30px;
+
+}
+.title-video-holder{
+  margin-bottom: 10px;
+}
+.top-grid{
+  display: grid;
+grid-template-columns: 64px 250px 645px 60px 300px 40px 40px 40px;
+}
+.search-icon-div{
+  display: inline-block;
+  vertical-align: top;
+}
+.button-search{
+ background-color:black;
+  margin-top: 2.5px;
+ border-color: gray;
+padding: 0px;
+border-width: 2px;
+ 
+  border-top-right-radius: 20px;
+  border-bottom-right-radius: 20px;
+  width: 55px;
+
+}
+
+.search-button{
+  width:30px;
+ height: 34px;
+ padding: 0px;
+  border-top-right-radius: 20px;
+  border-bottom-right-radius: 20px; 
+vertical-align: middle;
+object-fit: cover;
+}
+.mic-icon-button{
+  width: 30px;
+  height: 30px;
+  border-radius: 40px;
+margin-top:4px;
+}
+.mic-icon-button:hover{
+  cursor: pointer;
+}
+.button-search:hover{
+  cursor: pointer;
+  
+}
+.right-button-1:hover{
+  cursor: pointer;
+}
+.left-button-1:hover{
+  cursor: pointer;
+}
+.my-image-fix:hover{
+cursor: pointer;
+}
